@@ -33,7 +33,7 @@ To run the Weather App locally, follow these steps:
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](icons/weather app.png)
+![Weather App Screenshot](icons/Weather%20App.png)
 
 ## 🤖 Tech Stack
 
